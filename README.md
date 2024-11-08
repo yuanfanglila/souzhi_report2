@@ -12,13 +12,13 @@
 * 由于不同数据集存在量纲差异，MAPE 不受数据绝对值大小的影响（与原始数据的单位无关），因此适用于不同尺度的数据集：<bar>
    ![评价指标](https://github.com/yuanfanglila/souzhi_report2/blob/master/image/%E8%AF%84%E4%BB%B7%E6%8C%87%E6%A0%87.jpg)
 
-* 年度时间序列预测：
+* 年度时间序列预测：<bar>
   ![年度时间序列预测](https://github.com/yuanfanglila/souzhi_report2/blob/master/image/%E5%B9%B4%E5%BA%A6%E6%97%B6%E9%97%B4%E5%BA%8F%E5%88%97%E9%A2%84%E6%B5%8B.jpg)
 
-* 季度时间序列预测：
+* 季度时间序列预测：<bar>
    ![季度时间序列预测](https://github.com/yuanfanglila/souzhi_report2/blob/master/image/%E5%AD%A3%E5%BA%A6%E6%97%B6%E9%97%B4%E5%BA%8F%E5%88%97%E9%A2%84%E6%B5%8B.jpg)
 
-* 可视化ARIMA模型和深度学习时间序列预测模型对比：
+* 可视化ARIMA模型和深度学习时间序列预测模型对比：<bar>
   ![两种模型的年度时序预测](https://github.com/yuanfanglila/souzhi_report2/blob/master/%E6%97%B6%E9%97%B4%E5%BA%8F%E5%88%97%E5%B9%B4%E9%A2%84%E6%B5%8B/%E4%BA%BA%E5%9D%87%E5%9B%BD%E5%86%85%E6%80%BB%E4%BA%A7%E5%80%BC%EF%BC%88%E5%85%83%EF%BC%89_%E6%A8%A1%E5%9E%8B%E6%AF%94%E8%BE%83.png)
 
 ## 所需环境
