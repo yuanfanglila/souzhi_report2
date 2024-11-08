@@ -8,6 +8,7 @@
 * 我们基于Huggingface上的Chronos时间序列模型进行时间序列预测分析，这是一个最低限度适用于时间序列预测的语言建模框架。Chronos通过对实际值进行简单的缩放和量化，将时间序列标记为离散的Token。通过这种方式，我们可以在这种“时间序列语言”上训练现成的语言模型，而无需更改模型架构。
 * 我们基于[EPS数据平台](https://www.epsnet.com.cn/index.html#/Index)对12组数据进行了全面评估，测试结果基本超越了传统的ARIMA模型。值得注意的是，基于大语言的Chronos模型实现了令人印象深刻的开箱即用的零样本预测性能，无需针对特定任务进行调整。
 
+## 实验结果
 ![两种模型的年度时序预测](https://github.com/yuanfanglila/souzhi_report2/blob/master/%E6%97%B6%E9%97%B4%E5%BA%8F%E5%88%97%E5%B9%B4%E9%A2%84%E6%B5%8B/%E4%BA%BA%E5%9D%87%E5%9B%BD%E5%86%85%E6%80%BB%E4%BA%A7%E5%80%BC%EF%BC%88%E5%85%83%EF%BC%89_%E6%A8%A1%E5%9E%8B%E6%AF%94%E8%BE%83.png)
 
 ## 所需环境
