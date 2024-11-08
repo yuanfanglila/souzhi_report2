@@ -9,7 +9,7 @@
 * 我们基于[EPS数据平台](https://www.epsnet.com.cn/index.html#/Index)对12组数据进行了全面评估，测试结果基本超越了传统的ARIMA模型。值得注意的是，基于大语言的Chronos模型实现了令人印象深刻的开箱即用的零样本预测性能，无需针对特定任务进行调整。
 
 ## 实验结果
-* 由于不同数据集存在量纲差异，MAPE 不受数据绝对值大小的影响（与原始数据的单位无关），因此适用于不同尺度的数据集：
+* 由于不同数据集存在量纲差异，MAPE 不受数据绝对值大小的影响（与原始数据的单位无关），因此适用于不同尺度的数据集：<bar>
    ![评价指标](https://github.com/yuanfanglila/souzhi_report2/blob/master/image/%E8%AF%84%E4%BB%B7%E6%8C%87%E6%A0%87.jpg)
 
 * 年度时间序列预测：
